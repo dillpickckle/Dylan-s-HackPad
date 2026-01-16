@@ -5,7 +5,7 @@ This project is a custom 3×3 macro pad built around the Seeed XIAO RP2040, feat
 
 Schematic: 
 
-![Schematic}9https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/Screenshot%202026-01-15%20172453.png)
+![Schematic}(https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/Screenshot%202026-01-15%20172453.png)
 
 
  BOM: 
