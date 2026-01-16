@@ -7,13 +7,30 @@ Schematic:
 
 ![Schematic](https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/Screenshot%202026-01-15%20172453.png)
 
+PCB:
+
+1[PCB](https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/Screenshot%202026-01-15%20172535.png)
+
+
+CAD IMAGE: 
+
+
+
+
 
  BOM: 
 9x Cherry MX Switches
+
 9x DSA Keycaps
+
 4x M3x5x4 Heatset inserts
+
 9x 1N4148 DO-35 Diodes.
+
 1x 0.91" 128x32 OLED Display
+
 1x EC11 Rotary Encoder
+
 1x XIAO RP2040
+
 1x Case (2 3d Printed parts)
