@@ -9,7 +9,7 @@ Schematic:
 
 PCB:
 
-![PCB](https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/Screenshot%202026-01-15%20172535.png)
+![PCB](https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/image_2026-01-17_133446140.png)
 
 
 CAD IMAGE: 
