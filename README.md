@@ -4,9 +4,7 @@ This project is a custom 3×3 macro pad built around the Seeed XIAO RP2040, feat
  ALL FILES ARE ON THE MAIN BRANCH. You can find the SCHEMATIC, PCB, and CAD images in the images folder ( I will be adding fully assembled images soon). THANKS FOR VIEWING! I will also be making changes, but this is the first iteration. 
 
 Schematic: 
-
-![Schematic](https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/Screenshot%202026-01-17%20104220.png)
-
+![Schematic](https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/image_2026-01-19_132635719.png)
 PCB:
 
 ![PCB](https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/image_2026-01-17_133446140.png)
