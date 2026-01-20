@@ -3,7 +3,7 @@
 This project is a custom 3×3 macro pad built around the Seeed XIAO RP2040, featuring a diode-protected key matrix, a rotary encoder for dynamic input, and a 128×32 SSD1306 OLED for real-time status display (RN it displays larry the SLUG). The design uses a proper row/column matrix to prevent ghosting and is powered by QMK firmware for full remapping, layers, and encoder support. This is my first time working with KiCad, and I was excited to learn how to use it through this project. It also helped to sharpen my Fusion 360 and coding skills, and that's why I made this project. 
 
 Schematic: 
-![Schematic](https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/image_2026-01-19_132635719.png)
+![Schematic](https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/Screenshot%202026-01-19%20194250.png)
 PCB:
 
 ![PCB](https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/Screenshot%202026-01-19%20194314.png)
