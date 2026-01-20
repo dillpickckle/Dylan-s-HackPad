@@ -6,7 +6,7 @@ Schematic:
 ![Schematic](https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/image_2026-01-19_132635719.png)
 PCB:
 
-![PCB](https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/image_2026-01-17_133446140.png)
+![PCB](https://github.com/dillpickckle/Dylan-s-HackPad/blob/main/IMAGES/Screenshot%202026-01-19%20194314.png)
 
 
 CAD IMAGE: 
