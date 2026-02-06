@@ -4,3 +4,4 @@ OLED_DRIVER = ssd1306
 
 LTO_ENABLE = yes
 
+SRC += dylan.c
